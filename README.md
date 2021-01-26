@@ -5,6 +5,7 @@
 ## Technologies:
 * MongoDB
 * Angular
+* React
 * Node.js
 * Advanced JavaScript
 * Node Package Manager
@@ -19,7 +20,7 @@
 * RESTful API Design
 
 ## Course Objectives:
-* Basic Java
+* Basic Mern
 * Object-oriented programming concepts
 * Pillars of OOP
 * Creation of a model-view-controller app with Spring Boot
@@ -27,7 +28,7 @@
 * Creating of RESTful APIs
 
 ## Course Schedule:
-* Week 1 - Intro to Java and rudimentary Java EE
-* Week 2 - Sprint Boot, Services, Repositories, Data Model and MySql
-* Week 3 - Creating model-view-controller applications, Authentication and Authorization with Spring Security and RESTful APIs
+* Week 1 - Intro to Mern and NodeJS
+* Week 2 - React, Services, Repositories, Data Model and MongoDB
+* Week 3 - Creating model-view-controller applications, Authentication and Authorization with Security and RESTful APIs
 * Week 4 - Project Week, Belt exam preparation and Belt Exam
