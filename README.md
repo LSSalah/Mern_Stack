@@ -1,6 +1,6 @@
 # Coding-Dojo-MERN Stack
 
-## Course work from Coding Dojo's MEAN stack that includes Pre-MEAN, JavaScript, Node, Express, MongoDB, Angular, Deployment, Full MEAN and Algorithms.
+### Course work from Coding Dojo's MEAN stack that includes Pre-MEAN, JavaScript, Node, Express, MongoDB, Angular, Deployment, Full MEAN and Algorithms.
 
 ## Technologies:
 * MongoDB
