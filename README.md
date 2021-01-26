@@ -1,6 +1,6 @@
 # Coding-Dojo-MERN Stack
 
-### Course work from Coding Dojo's MEAN stack that includes Pre-MEAN, JavaScript, Node, Express, MongoDB, Angular, Deployment, Full MEAN and Algorithms.
+### Course work from Coding Dojo's MERN stack that includes Pre-MERN, JavaScript, Node, Express, MongoDB, Angular, Deployment, Full MERN and Algorithms.
 
 ## Technologies:
 * MongoDB
@@ -23,7 +23,7 @@
 * Basic Mern
 * Object-oriented programming concepts
 * Pillars of OOP
-* Creation of a model-view-controller app with Spring Boot
+* Creation of a model-view-controller app 
 * Create multi-view web application for create/read/update/delete sceenarious such as eCommerce sites
 * Creating of RESTful APIs
 
