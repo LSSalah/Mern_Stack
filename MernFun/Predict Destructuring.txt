@@ -1,0 +1,13 @@
+1. Selects a random car like "Mercedes" or "Tesla"
+
+2.Elon
+
+3. Prints password "12345" and hashpassword is undefined
+
+4.False
+  True
+
+5."Value"
+  [1,5,1,8,3,3]
+  1
+  5
