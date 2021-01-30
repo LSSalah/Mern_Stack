@@ -1,0 +1,45 @@
+.header{
+    background-color: #6aa84f;
+    min-height: 150px;
+    margin: 10px 10px 10px 10px;
+    padding: 0px;
+}
+.navigation{
+    background-color: #6fa8dc;
+    min-height: 300px;
+    width: 200px;
+    display: inline-block;
+    margin: 20px 0px 61px 8px;
+    padding: 0px;
+}
+.main{
+    min-height: 400px;
+    width: 700px;
+    background-color: #e06666;
+    margin: 19px 0px 16px 22px;
+    padding: 0px;
+    display: inline-block;
+
+}
+.con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.subcontent{
+    margin: 9px 4px 10px 10px;
+    padding: 0px;
+    display: inline-block;
+    background-color: #ffd966;
+    min-height: 200px;
+    width: 210px;
+}
+
+.advertisment{
+    background-color: #b4a7d6;
+    min-height: 120px;
+    width: 660px;
+    margin: 8px 17px 11px 18px;
+    padding: 0px;
+    display: inline-block;
+}
