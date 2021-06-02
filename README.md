@@ -1,6 +1,6 @@
 # Coding-Dojo-MERN Stack
 
-### Course work from Coding Dojo's MERN stack that includes Pre-MERN, JavaScript, Node, Express, MongoDB, Angular, Deployment, Full MERN and Algorithms.
+### Course work from Coding Dojo's MERN stack that includes Pre-MERN, JavaScript, Node, Express, MongoDB, Deployment, Full MERN and Algorithms.
 
 ## Technologies:
 * MongoDB
